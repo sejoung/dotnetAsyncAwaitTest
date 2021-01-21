@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTest", "AsyncTest\AsyncTest.csproj", "{2A84DEDC-D54E-45FF-94E3-2099D60645D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cancel", "Cancel\Cancel.csproj", "{6B4248DF-F541-40CE-A4A0-6CA3C9ACD7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A84DEDC-D54E-45FF-94E3-2099D60645D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A84DEDC-D54E-45FF-94E3-2099D60645D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A84DEDC-D54E-45FF-94E3-2099D60645D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A84DEDC-D54E-45FF-94E3-2099D60645D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4248DF-F541-40CE-A4A0-6CA3C9ACD7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4248DF-F541-40CE-A4A0-6CA3C9ACD7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4248DF-F541-40CE-A4A0-6CA3C9ACD7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4248DF-F541-40CE-A4A0-6CA3C9ACD7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
